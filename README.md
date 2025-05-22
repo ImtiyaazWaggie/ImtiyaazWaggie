@@ -18,7 +18,7 @@ I am a Application Engineering student at CPUT.
 ## 👥 Career Counselling
 
 ### 📋 Evidence
-
+<img src="Career Development.png">
 
 ### 🌟 Reflection: STAR Technique
 
@@ -53,7 +53,7 @@ The career counselling session produced significant positive outcomes:
 ## 🎯 Skills and Interests Assessment
 
 ### 📋 Evidence
-
+<img src="Skills and Interest.png">
 
 
 ### 🌟 Reflection: STAR Technique
@@ -85,7 +85,7 @@ The assessment revealed:
 ## 🧠 Personality Assessment
 
 ### 📋 Evidence
-
+<img src="Personality Assessment.png">
 
 ### 🌟 Reflection: STAR Technique
 
@@ -116,7 +116,7 @@ The assessment provided:
 ## 📄 CV Creation
 
 ### 📋 Evidence
-
+<img src="Create CV.png">
 
 ### 🌟 Reflection: STAR Technique
 
@@ -148,7 +148,7 @@ I created a professional CV that:
 ## 📨 CV Submission
 
 ### 📋 Evidence
-
+<img src="cv submission.png">
 
 ### 🌟 Reflection: STAR Technique
 
