@@ -53,7 +53,7 @@ Here's my game plan that worked:
 ## 🎯 Interview Skills
 
 ### 📋 Evidence
-<img src="Skills and Interest.png">
+<img src="Interview Skills.png">
 
 
 ### 🌟 Reflection: STAR Technique
@@ -82,7 +82,7 @@ Here's exactly what I did to prepare:
 ## 🧠 Mock Video Presentation 
 
 ### 📋 Evidence
-<img src="Personality Assessment.png">
+<img src="Mock Interview.png">
 
 ### 🌟 Reflection: STAR Technique
 
@@ -114,7 +114,7 @@ The assessment provided:
 ## 📄 Professional Networking 
 
 ### 📋 Evidence
-<img src="Create CV.png">
+<img src="Professional Networking.png">
 
 ### 🌟 Reflection: STAR Technique
 
@@ -147,7 +147,7 @@ My comprehensive preparation strategy included:
 ## 📨 Workplace Etiquette
 
 ### 📋 Evidence
-<img src="cv submission.png">
+<img src="workplace etiquette.png">
 
 ### 🌟 Reflection: STAR Technique
 
