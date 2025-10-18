@@ -18,7 +18,7 @@ I am a Application Engineering student at CPUT.
 ## 👥 Career Counselling
 
 ### 📋 Evidence
-<img src="Career Development.png">
+<img src="Business communication.png">
 
 ### 🌟 Reflection: STAR Technique
 
