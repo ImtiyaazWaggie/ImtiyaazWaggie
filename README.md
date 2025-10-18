@@ -18,7 +18,7 @@ I am a Application Engineering student at CPUT.
 ## 👥 Business communication
 
 ### 📋 Evidence
-<img src="Business communcation.png">
+<img src="Business communcation .png">
 
 ### 🌟 Reflection: STAR Technique
 
