@@ -15,42 +15,42 @@ I am a Application Engineering student at CPUT.
 
 ---
 
-## 👥 Career Counselling
+## 👥 Business communication
 
 ### 📋 Evidence
-<img src="Business communication.png">
+<img src="">
 
 ### 🌟 Reflection: STAR Technique
 
 #### 🎭 Situation
-I entered the career counselling session feeling uncertain about my future career direction within the ICT field. Despite having a strong academic foundation, I was overwhelmed by the numerous career paths available and unsure which direction would best suit my interests and strengths.
+Had to take this Business Communication formative assessment that covered everything - from writing professional emails to handling tough conversations and understanding different communication styles.
 
 #### 📋 Task
-My primary objectives for the career counselling session were to:
-- Gain clarity on available ICT career paths
-- Understand the skills and qualifications required for different roles
-- Identify which career options aligned best with my interests and strengths
-- Develop a concrete action plan for my professional development
+The assessment wanted me to show I could:
+
+- Handle real business scenarios with the right communication approach
+- Write clearly and professionally
+- Understand when to use different communication styles
+- Navigate tricky cultural and digital communication situations
 
 #### 🎯 Action
-To maximize the value of the counselling session, I took the following actions:
-- Prepared a list of specific questions and concerns before the session
-- Actively participated in all assessment activities during the 90-minute session
-- Asked detailed questions about salary expectations and career progression
-- Took comprehensive notes on all recommendations
-- Requested additional resources for further exploration
+Here's my game plan that worked:
+
+- Got organized: Made study notes that actually made sense .
+- Practice runs: Worked through tons of real-world examples
+- Asked for help: Got feedback from classmates and instructors when things got confusing
+- Managed my time: Split up study sessions so I wasn't overwhelmed
+- Made it real: Connected everything to actual work situations I've been in
 
 #### 🏆 Result
-The career counselling session produced significant positive outcomes:
-- Identified Software Development as my primary career interest
-- Received a personalized 6-month professional development plan
-- Gained understanding of industry requirements and expectations
-- Built confidence in my career decision-making abilities
-- Started implementing the action plan recommendations
+- Really understood how to communicate effectively in business settings
+- Got way more confident handling tough conversations
+- Added some solid communication skills to my toolkit
+- Ready to tackle any professional communication challeng
 
 ---
 
-## 🎯 Skills and Interests Assessment
+## 🎯 Interview Skills
 
 ### 📋 Evidence
 <img src="Skills and Interest.png">
@@ -59,30 +59,27 @@ The career counselling session produced significant positive outcomes:
 ### 🌟 Reflection: STAR Technique
 
 #### 🎭 Situation
-I needed to identify and document my current skills and interests to better understand my professional strengths and areas for development.
-
+In March 2025, I faced a comprehensive Interview Skills formative assessment. This wasn't just about answering interview questions - it tested my ability to excel on both sides of the interview table. The stakes were high because interview skills literally make or break career opportunities.
 #### 📋 Task
-Complete a comprehensive skills and interests assessment to create a baseline for professional development planning.
+- Handling pressure: Dealing with unexpected or challenging questions
+- Professional presentation: Body language, tone, and confidence
+- Interviewer skills: How to evaluate candidates and ask the right questions
 
 #### 🎯 Action
-I approached the assessment by:
-- Setting aside dedicated time for honest self-evaluation
-- Researching unfamiliar assessment criteria
-- Seeking clarification when needed
-- Completing all sections thoroughly
-- Reviewing results carefully and identifying patterns
+Here's exactly what I did to prepare:
+
+- Created a story database: Documented 15+ STAR-format stories covering leadership, problem-solving, teamwork, and challenges
+- Mock interview bootcamp: Did 10+ practice interviews with different people for varied perspectives
+- The mirror technique: Practiced answers daily in front of a mirror for body language
 
 #### 🏆 Result
-The assessment revealed:
-- Strong alignment between my skills and ICT career requirements
-- Previously unrecognized strengths in [specific areas]
-- Clear areas for skill development
-- Confirmation of my interests in [specific areas]
-- A roadmap for targeted professional development
+- Confidence boost: No longer nervous about interviews, actually excited for them
+- Ready for anything: Can handle behavioral, technical, case, and stress interviews
+- Double advantage: Can ace interviews AND conduct them effectively
 
 ---
 
-## 🧠 Personality Assessment
+## 🧠 Mock Video Presentation 
 
 ### 📋 Evidence
 <img src="Personality Assessment.png">
@@ -90,30 +87,31 @@ The assessment revealed:
 ### 🌟 Reflection: STAR Technique
 
 #### 🎭 Situation
-I needed to understand my personality traits and how they might impact my work performance and career satisfaction.
+Had to create and deliver a professional mock video presentation as part of my assessment. With remote work and virtual meetings being the norm now, this was about proving I could be just as engaging and professional through a screen as in person.
 
 #### 📋 Task
-Complete a comprehensive personality assessment and analyze the results in the context of my career goals.
+The mock video required me to:
+
+- Deliver a compelling presentation on camera without a live audience
+- Maintain energy and engagement talking to a lens
+- Handle technical aspects while presenting smoothly
 
 #### 🎯 Action
-I engaged with the assessment by:
-- Answering all questions honestly and thoughtfully
-- Taking time to consider each response carefully
-- Reviewing the results with an open mind
-- Researching the implications of my personality type
-- Discussing results with mentors/peers for additional perspective
+My strategy to create a killer video:
 
+- Feedback rounds: Showed drafts to peers and incorporated their suggestions
+- Practice runs: Rehearsed until I could deliver naturally without reading
+- Multiple takes: Recorded each section 3-4 times to get the perfect delivery
+- 
 #### 🏆 Result
 The assessment provided:
-- Clear understanding of my work style preferences
-- Insight into my communication and leadership tendencies
-- Recognition of my strengths in team dynamics
-- Awareness of potential challenges in certain work environments
-- Strategies for maximizing my personality strengths
+- Overcame the awkwardness of talking to a camera
+- Developed a repeatable process for creating video content
+- Confidence on camera: No more camera shy - I own the virtual space
 
 ---
 
-## 📄 CV Creation
+## 📄 Professional Networking 
 
 ### 📋 Evidence
 <img src="Create CV.png">
@@ -121,31 +119,32 @@ The assessment provided:
 ### 🌟 Reflection: STAR Technique
 
 #### 🎭 Situation
-I needed to create a professional CV that effectively showcased my qualifications and potential to prospective employers in the ICT field.
+Took on a Professional Networking assessment that tested my ability to build and maintain meaningful professional relationships. This wasn't just about collecting LinkedIn connections - it was about understanding how to create genuine value in professional networks.
 
 #### 📋 Task
-Develop a comprehensive, well-structured CV that highlights my education, skills, and experiences relevant to my career goals.
+The assessment required demonstrating proficiency in:
 
+- Developing authentic professional relationships with strategic value
+- Implementing effective networking strategies across various professional settings
+- Mastering digital networking platforms and virtual engagement techniques
+- Maintaining long-term professional relationships through systematic follow-up
+  
 #### 🎯 Action
-I approached CV creation by:
-- Researching current CV best practices and industry standards
-- Gathering all relevant information about my background
-- Using multiple drafts to refine content and formatting
-- Seeking feedback from career services and mentors
-- Customizing the CV for specific job types in ICT
-- Ensuring ATS compatibility and professional presentation
+My comprehensive preparation strategy included:
+
+- Personal brand development: Created multiple versions of a refined elevator pitch tailored to different audiences
+- Value-first methodology: Established a practice of sharing industry insights and facilitating strategic introductions
+- Digital presence optimization: Enhanced LinkedIn profile and implemented consistent content strategy with weekly valuable posts
 
 #### 🏆 Result
-I created a professional CV that:
-- Effectively communicates my value proposition
-- Highlights relevant technical and soft skills
-- Demonstrates my academic achievements
-- Shows progression and growth potential
-- Meets industry formatting standards
-- Positions me competitively for entry-level ICT roles
+
+- Established valuable network: Developed relationships with mentors and industry professionals who provide ongoing guidance
+- Enhanced professional confidence: Gained ability to navigate networking events effectively and engage meaningfully
+- Built professional reputation: Recognized as a valuable contributor who provides insights and support to network
+
 ---
 
-## 📨 CV Submission
+## 📨 Workplace Etiquette
 
 ### 📋 Evidence
 <img src="cv submission.png">
@@ -156,16 +155,19 @@ I created a professional CV that:
 I needed to actively apply for positions using my newly created CV to gain real-world experience in the job application process.
 
 #### 📋 Task
-Submit my CV to relevant ICT positions and track responses to evaluate the effectiveness of my application materials and approach.
+The assessment evaluated mastery of:
+
+- Professional communication protocols across various channels 
+- Understanding hierarchical dynamics and appropriate interaction with all organizational levels
+- Cultural sensitivity and inclusive workplace behaviors
+- Remote work etiquette and virtual meeting professionalism
 
 #### 🎯 Action
-I implemented a systematic application strategy by:
-- Identifying suitable entry-level ICT positions
-- Customizing my CV and cover letters for each application
-- Maintaining detailed records of all submissions
-- Following up appropriately with potential employers
-- Analyzing response patterns to identify improvement areas
-- Seeking feedback on unsuccessful applications
+My approach to mastering workplace etiquette included:
+
+- Protocol research: Studied contemporary workplace standards across different industries and cultures
+- Email excellence: Developed templates for professional communication while maintaining appropriate tone
+- Meeting effectiveness: Practiced active listening techniques and constructive contribution strategies
 
 #### 🏆 Result
 Through the submission process, I:
